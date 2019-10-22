@@ -1,18 +1,23 @@
 # Reading seminar for Optimisation and Inference
 
-These reading seminars are held at Imperial College, and are meant to present on a weekly basis papers related to Optimisation and Inference.
+These reading seminars are held at Imperial College on a weekly basis, and are meant to present papers related to Optimisation and Inference.
 
 ### Practical details
-**How to stay tunned?** \
-**Where?** Room 140 (Huxley building), Imperial College London \
-**When?** See program below.
+**How to stay tunned?** Please subscribe to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/opt-inf-reading-seminar). \
+**Where?** Room 140 (Huxley building), Imperial College London. \
+**When?** See the program below.
 
-For any question please contact Alexis Laignelet: [acl18@imperial.ac.uk](mailto:acl18@imperial.ac.uk).
+### Team
+- Panos Parpas: [panos.parpas@imperial.ac.uk](mailto:panos.parpas@imperial.ac.uk)
+- Grigorios A. Pavliotis: [g.pavliotis@imperial.ac.uk](mailto:g.pavliotis@imperial.ac.uk)
+- Nikolas Kantas: [n.kantas@imperial.ac.uk](mailto:n.kantas@imperial.ac.uk)
+
+If you have any question, please contact Alexis Laignelet: [acl18@imperial.ac.uk](mailto:acl18@imperial.ac.uk).
 
 `Contents:`\
 *Optimisation, Convexity, Gradient methods, Proximal algorithms, Stochastic methods, Primal-Dual problems, Markov Chain, Monte Carlo, Error estimates, Diffusion processes, Lipschitz functions, Euler scheme, Variational Inference.*
 
-### Program:
+### Program
 Date | Speaker | Paper 
 --- | --- | ---
 08/10/19 | Grigorios A. Pavliotis | ['Curvature, Concentration and Error Estimates for Markov Chain Monte Carlo'](../../raw/master/papers/0904.1312.pdf), Aléric Joulin and Yann Ollivier
