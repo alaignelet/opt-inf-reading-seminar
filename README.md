@@ -1,4 +1,4 @@
-# Reading seminar for Optimisation and Inference
+# Reading Seminars for Optimisation and Inference
 
 These reading seminars are held at Imperial College on a weekly basis, and are meant to present papers related to Optimisation and Inference.
 
