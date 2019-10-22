@@ -18,7 +18,7 @@ If you have any question, please contact Alexis Laignelet: [acl18@imperial.ac.uk
 *Optimisation, Convexity, Gradient methods, Proximal algorithms, Stochastic methods, Primal-Dual problems, Markov Chain, Monte Carlo, Error estimates, Diffusion processes, Lipschitz functions, Euler scheme, Variational Inference.*
 
 ### Program
-Date | Speaker | Paper 
+Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Paper 
 --- | --- | ---
 08/10/19 | Grigorios A. Pavliotis | ['Curvature, Concentration and Error Estimates for Markov Chain Monte Carlo'](../../raw/master/papers/0904.1312.pdf), Aléric Joulin and Yann Ollivier
 15/10/19 | Grigorios A. Pavliotis | ['Curvature, Concentration and Error Estimates for Markov Chain Monte Carlo'](../../raw/master/papers/0904.1312.pdf), Aléric Joulin and Yann Ollivier
